@@ -1,4 +1,4 @@
-# webCreate
+# VueExpress
 这是一个由express+vue实现快速构建网站的项目框架模板,将前后端分离，快速建站.
 
 ### 1.加载app端的模块包
